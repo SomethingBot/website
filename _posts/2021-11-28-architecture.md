@@ -8,4 +8,4 @@ title: "Very rough architecture"
 This is a very simple layout of what the current idea for SomethingBot's ecosystem's architecture will be
 
 
-![Architecture](2021-11-28-architecture-assets/architecture.png)
+![Architecture](_posts/2021-11-28-architecture-assets/architecture.png)
